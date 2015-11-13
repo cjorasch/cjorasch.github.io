@@ -2,114 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1217fd5a-a9f6-4964-b83a-383c39052d29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fonts/stamp-icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fonts/stamp-icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fonts/stamp-icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/close@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/loading@2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/next@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/prev@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/fonts/lanenar_Lane.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/fonts/lanenar_Lane.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont-.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont-v=4.1.0.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont-v=4.1.0.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont-v=4.1.0.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about-us.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/background-images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/background-images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicons/favicon-120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicons/favicon-152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicons/favicon-57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicons/favicon-72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicons/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/imac-ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/imac-ipad@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ipad-air.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ipad-air@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-blue.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-green.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-green2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-orange.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-purple.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-red.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo-nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/map-marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/1@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/2@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/3@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/4@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/help.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fonts/stamp-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/green2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/style1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/style2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/style3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/style4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont-v=4.1.0.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/help1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/help2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/map-marker.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie10-viewport-bug-workaround.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.ajaxchimp.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.nav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.stellar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/nivo-lightbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/retina-1.1.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/retina.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/smoothscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/wow.min.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/privacy.html" afterPath="$PROJECT_DIR$/privacy.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
     </list>
     <ignored path="cjorasch.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -236,6 +129,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cjorasch.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cjorasch.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cjorasch.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
