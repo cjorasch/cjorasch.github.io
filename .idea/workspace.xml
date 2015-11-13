@@ -2,10 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1217fd5a-a9f6-4964-b83a-383c39052d29" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legal/privacy.html" afterPath="$PROJECT_DIR$/privacy.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/legal/terms.html" afterPath="$PROJECT_DIR$/terms.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fonts/stamp-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fonts/stamp-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fonts/stamp-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/close@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/loading@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/next@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/prev@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/fonts/lanenar_Lane.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/fonts/lanenar_Lane.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont-.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont-v=4.1.0.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont-v=4.1.0.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont-v=4.1.0.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about-us.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/background-images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/background-images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clients/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/companies/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicons/favicon-120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicons/favicon-152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicons/favicon-57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicons/favicon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicons/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/imac-ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/imac-ipad@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ipad-air.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ipad-air@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-blue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-green.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-green2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-orange.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-purple.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-red.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo-nav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/map-marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/1@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/2@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/3@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/4@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fonts/stamp-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/green2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo-lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/nivo_themes/default/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/style1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/style2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/style3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/typography/style4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont-v=4.1.0.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/help1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help/help2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/map-marker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie10-viewport-bug-workaround.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.ajaxchimp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.nav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.stellar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/nivo-lightbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/retina-1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/retina.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/smoothscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/wow.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/privacy.html" afterPath="$PROJECT_DIR$/privacy.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="cjorasch.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,12 +130,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21784233">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-              <folding />
+            <state vertical-scroll-proportion="0.7052402">
+              <caret line="1296" column="41" selection-start-line="1296" selection-start-column="41" selection-end-line="1296" selection-end-column="41" />
+              <folding>
+                <marker date="1447381496000" expanded="true" signature="2569:2675" placeholder="..." />
+                <marker date="1447381496000" expanded="true" signature="2629:2661" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,11 +159,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/legal/terms.html" />
         <option value="$PROJECT_DIR$/legal/privacy.html" />
         <option value="$PROJECT_DIR$/legal/terms.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_layouts/help.html" />
+        <option value="$PROJECT_DIR$/help/help1.md" />
+        <option value="$PROJECT_DIR$/privacy.html" />
+        <option value="$PROJECT_DIR$/privacy.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -66,8 +177,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
-    <option name="y" value="309" />
+    <option name="y" value="23" />
     <option name="width" value="1408" />
     <option name="height" value="877" />
   </component>
@@ -78,7 +188,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -144,7 +254,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/legal" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/help" />
     </key>
   </component>
   <component name="RunManager">
@@ -219,8 +333,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="309" width="1408" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1408" height="877" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945927" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -248,46 +362,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.375">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/privacy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06550218">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terms.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
@@ -308,9 +388,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21784233">
+        <state vertical-scroll-proportion="0.0">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terms.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16556291">
+          <caret line="5" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/help.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48723897">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/help/help1.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0689654">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/help/help2.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.586207">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/stamp-v1/stamp-html/image-bg/1-home-style-one/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-41.60917">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <marker date="1416191350000" expanded="true" signature="2569:2675" placeholder="..." />
+            <marker date="1416191350000" expanded="true" signature="2629:2661" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65502185">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/privacy.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15560167">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/stamp-v1/stamp-html/image-bg/1-home-style-one/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7030162">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/stamp-v1/stamp-html/image-bg/1-home-style-one/assets/icons/icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5895197">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/stamp-v1/stamp-html/image-bg/1-home-style-one/css/typography/style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5895197">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7052402">
+          <caret line="1296" column="41" selection-start-line="1296" selection-start-column="41" selection-end-line="1296" selection-end-column="41" />
+          <folding>
+            <marker date="1447381496000" expanded="true" signature="2569:2675" placeholder="..." />
+            <marker date="1447381496000" expanded="true" signature="2629:2661" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
