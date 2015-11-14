@@ -13,9 +13,9 @@ module.exports = function (grunt) {
             },
             js: {
                 src: [
-                    'js/combined/jquery.min.js',
-                    'js/combined/js/*.js',
-                    'js/combined/custom.js'
+                    'js/combined/jquery.min.js',    // Must be loaded before bootstrap
+                    'js/combined/*.js',
+                    'js/combined/end/custom.js'     // In folder so wildcard does not get it earlier
                 ],
                 dest: 'js/combined.js'
             }
@@ -50,5 +50,10 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
 
-    grunt.registerTask('default', ['concat:css', 'cssmin:css', 'concat:js', 'uglify:js']);
+    grunt.registerTask('build', [
+        'concat:css',
+        'cssmin:css',
+        'concat:js',
+        'uglify:js'
+    ]);
 };

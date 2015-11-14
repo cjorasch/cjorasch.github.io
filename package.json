@@ -3,9 +3,11 @@
   "title" : "Meetings 2 Website",
   "version" : "1.0.0",
   "scripts": {
-    "concat": "grunt",
-    "build": "grunt && jekyll build",
-    "build2": "jekyll build"
+    "build": "grunt build && jekyll build",
+    "build-code": "grunt build",
+    "build-html": "jekyll build",
+    "build-html-watch": "jekyll build --watch"
+
   },
   "devDependencies": {
     "grunt": "0.4.1",

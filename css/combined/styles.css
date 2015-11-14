@@ -447,7 +447,6 @@ strong,
    3.1 SECTION: HOME / HEADER         
 -----------------------------------------*/
 
-/* -- CUSTOMIZATION: only on home page --- */
 .m2-page-home .header {
 	background: url(../images/background-images/1.jpg) no-repeat center top fixed;
 	-webkit-background-size: cover;
@@ -500,18 +499,17 @@ strong,
 	-webkit-backface-visibility: hidden;
 }
 
+/* INTRO */
 
-/* ONLY LOGO */
 .only-logo .navbar-header {
-	margin: auto;
-	float: none;
+    margin: auto;
+    float: none;
 }
 
 .only-logo .navbar-header img {
-	max-width: 80px;
+    max-width: 80px;
 }
 
-/* INTRO */
 .intro-section {
 	margin-top: 50px;
 }
@@ -1084,31 +1082,6 @@ strong,
 }
 
 /*---------------------------------------
-   3.14 SECTION: GOOGLE MAP
------------------------------------------*/
-#google-container {
-	position: relative;
-	width: 100%;
-	height: 500px;
-}
-
-#cd-google-map {
-	position: relative;
-	-webkit-transition: all ease 0.55s;
-	transition: all ease 0.55s;
-}
-
-#cd-google-map address {
-	position: absolute;
-	width: 100%;
-	bottom: 0;
-	left: 0;
-	opacity: 0.8;
-	padding: 1em 1em;
-	color: #ffffff;
-}
-
-/*---------------------------------------
    3.15 SECTION: FOOTER
 -----------------------------------------*/
 .footer {
@@ -1157,4 +1130,8 @@ strong,
 
 html {
     overflow-y: scroll;     /* prevent header shift if some pages do not fill height */
+}
+
+.footer ul {
+	margin-bottom: 0;
 }

@@ -17,6 +17,7 @@ $(window).load(function() {
     $('.main-navigation').onePageNav({
         changeHash: true,
         currentClass: 'not-active', /* CHANGE THE VALUE TO 'current' TO HIGHLIGHT CURRENT SECTION LINK IN NAV*/
+        //currentClass: 'current', /* CHANGE THE VALUE TO 'current' TO HIGHLIGHT CURRENT SECTION LINK IN NAV*/
         scrollSpeed: 750,
         scrollThreshold: 0.5,
         filter: ':not(.external)'
@@ -71,7 +72,7 @@ $(window).resize(function() {
 
 
     /*---------------------------------------*/
-    /*	SMOOTH SCROLL FRO INTERNAL #HASH LINKS
+    /*	SMOOTH SCROLL FROM INTERNAL #HASH LINKS
 	/*---------------------------------------*/
 
     $('a[href^="#"].inpage-scroll, .inpage-scroll a[href^="#"]').on('click', function(e) {
@@ -94,36 +95,45 @@ $(window).resize(function() {
 	/*---------------------------------------*/
 
     mainNav();
+
     $(window).scroll(function() {
         mainNav();
     });
 
     function mainNav() {
-        var top = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;
-        if (top > 40) $('.appear-on-scroll').stop().animate({
-            "opacity": '1',
-            "top": '0'
-        });
-        else $('.appear-on-scroll').stop().animate({
-            "top": '-70',
-            "opacity": '0'
-        });
 
-        /* if (top > 95) {
-        $('.js-login').fadeOut(20);
+        // Get the scroll location
+        var top = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;
+
+        // Check if the user has scroll more than 40 pixels
+        var navBar = $('.appear-on-scroll');
+        if (top > 40) {
+            // Show the navbar
+            navBar.stop().animate({
+                "opacity": '1',
+                "top": '0'
+            });
+        } else {
+            // Hide the havbar
+            navBar.stop().animate({
+                "top": '-70',
+                "opacity": '0'
+            });
         }
-        else {
-        $('.js-login').fadeIn(200);
-            
+
+        //var signInButton = $('.appear-on-scroll .m2-signin');
+        //if (top > 200) {
+        //    signInButton.fadeOut(20);
+        //} else {
+        //    signInButton.fadeIn(200);
+        //}
+
+        var signUpButton = $('.appear-on-scroll .m2-signup');
+        if (top > 300) {
+            signUpButton.fadeIn(200);
+        } else {
+            signUpButton.fadeOut(200);
         }
-        
-        if (top > 200) {
-        $('.js-register').fadeIn(200);
-        }
-        else {
-        $('.js-register').fadeOut(200);
-            
-        } */
     }
 
 
