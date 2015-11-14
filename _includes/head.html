@@ -1,11 +1,35 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="description" content="Effective action items for meetings">
+    <meta name="keywords" content="Meetings, Action Items, Tasks, Accountable">
+    <meta name="author" content="Mizanur Rahman">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
 
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <!-- FavIcons -->
+    <link rel="icon" href="images/favicons/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="images/favicons/favicon-152.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="images/favicons/favicon-120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/favicons/favicon-72.png">
+    <link rel="apple-touch-icon-precomposed" href="images/favicons/favicon-57.png">
+
+    <!-- Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Cabin:400,600|Open+Sans:300,600,400' rel='stylesheet'>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/combined.min.css">
+
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+    <![endif]-->
+    <!--[if gte IE 9]>
+    <style type="text/css">
+        .standard-button,
+        .navbar-register-button {
+            filter: none;
+        }
+    </style>
+    <![endif]-->
+
 </head>

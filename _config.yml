@@ -1,11 +1,11 @@
 # Site settings
 title: Sample Website
-email: your-email@domain.com
+email: info@meetings2.com
 description: This is a description of the website
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: cjorasch
-github_username:  cjorasch
+url: "http://www.meetings2.com" # the base hostname & protocol for your site
+twitter_username: meetings2
+github_username:  meetings2
 
 # Build settings
 markdown: kramdown
