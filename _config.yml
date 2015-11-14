@@ -9,3 +9,5 @@ github_username:  meetings2
 
 # Build settings
 markdown: kramdown
+
+exclude: [package.json, Gruntfile.js, node_modules]

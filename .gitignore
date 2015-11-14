@@ -1,2 +1,9 @@
+### jekyll  ###
 _site
 .sass-cache
+.jekyll-metadata
+
+### Webstorm  ###
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
