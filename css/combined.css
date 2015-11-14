@@ -2707,8 +2707,9 @@ strong,
     border: none;
     margin-bottom: 0 !important;
     -webkit-backface-visibility: hidden;
-    x-webkit-box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
-    xbox-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
+    /* shadow so it does not blend into content */
+    -webkit-box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
+    box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
 }
 
 .sticky-navigation {
@@ -2727,6 +2728,7 @@ strong,
 }
 
 .navbar li button {
+    margin-top: 11px;
     margin-left: 18px;
 }
 
@@ -3391,5 +3393,5 @@ strong,
 }
 
 html {
-    xoverflow-y: scroll;
+    overflow-y: scroll;     /* prevent header shift if some pages do not fill height */
 }
